@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+I'm currently learning Full-Stack Web Development.
+
+**Skills:**
+- **Frontend:** HTML, CSS, JavaScript (React, Angular)
+- **Backend:** Node.js (Express)
+- **Database:** MySQL
+- **Version Control:** Git, GitHub
+- **Tools:** VS Code
+
+**Currently Learning:**
+- Full-Stack course from The Odin Project (https://www.theodinproject.com/about)
+
+**Education:**
+- Bachelor's in Computer Science | ISTEC Porto | 2023
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/marcosbneves/)
+- [Portfolio](Currently in development)
+
+**I welcome any tips for my developer journey.**
+
 <!--
 **MarcosBN17/MarcosBN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
