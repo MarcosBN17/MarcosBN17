@@ -10,7 +10,7 @@ I'm currently learning Full-Stack Web Development.
 - **Tools:** VS Code
 
 **Currently Learning:**
-- Full-Stack course from The Odin Project (https://www.theodinproject.com/about)
+- C# Academy Course
 
 **Education:**
 - Bachelor's in Computer Science | ISTEC Porto | 2023
