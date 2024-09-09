@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-I'm currently learning Full-Stack Web Development.
+I’m currently expanding my skills in Full-Stack Web Development with a focus on C# and .NET technologies.
 
 **Skills:**
 - **Frontend:** HTML, CSS, JavaScript (React, Angular)
-- **Backend:** Node.js (Express)
-- **Database:** MySQL
+- **Backend:** C# (.NET Core)
+- **Database:** MySQL, SQL Server
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code
+- **Tools:** VS Code and Visual Studio
 
 **Currently Learning:**
-- C# Academy Course
+- C# and .NET Development: Enrolled in a C# Academy course to deepen my understanding of .NET Core, ASP.NET, and backend development.
 
 **Education:**
 - Bachelor's in Computer Science | ISTEC Porto | 2023
